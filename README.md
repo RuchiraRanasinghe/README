@@ -1,4 +1,15 @@
-  <h1>💻 Tech Stack:</h1>
+  <div align="center">
+    <h1>ツ Hello, I'm Ruchira</h1>
+    <h3>Enthusiastic IT Learner 👨‍💻</h3>
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=RuchiraRanasinghe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">-->
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchiraRanasinghe&theme=transparent&hide_border=false" alt="GitHub Streak Stats">
+    <br/><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraRanasinghe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <hr>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=RuchiraRanasinghe&icon=0&color=0" alt="Visit Count">
+    </a>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -21,19 +32,7 @@
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
     <img src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white" alt="Adobe Lightroom Classic">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-
-    <h1>📊 GitHub Stats:</h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=RuchiraRanasinghe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchiraRanasinghe&theme=transparent&hide_border=false" alt="GitHub Streak Stats">
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraRanasinghe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-
     <hr>
-
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=RuchiraRanasinghe&icon=0&color=0" alt="Visit Count">
-    </a>
-
-
+    <H3>How to reach me - <a href="mailto:rhvruchira@gmail.com">rhvruchira@gmail.com</a></H3>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
