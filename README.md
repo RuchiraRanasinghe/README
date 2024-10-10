@@ -1,15 +1,16 @@
   <div align="center">
     <h1>ツ Hello, I'm Ruchira</h1>
     <h3>Enthusiastic IT Learner 👨‍💻</h3>
+        <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=RuchiraRanasinghe&icon=0&color=0" alt="Visit Count">
+    </a>
+    <br>
     <!--<img src="https://github-readme-stats.vercel.app/api?username=RuchiraRanasinghe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">-->
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchiraRanasinghe&theme=transparent&hide_border=false" alt="GitHub Streak Stats">
     <br/><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraRanasinghe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     <hr>
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=RuchiraRanasinghe&icon=0&color=0" alt="Visit Count">
-    </a>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
